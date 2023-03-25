@@ -2,6 +2,7 @@
 
 /* base styles */
 * {
+  background-color: #F2F3F4;
   margin: 0;
   font-family: "Quicksand";
   color: #1B1B1B;
@@ -46,6 +47,6 @@
 
 .blog-preview h2{
   font-size: 20px;
-  color: #922929;
+  color: #660000;
   margin-bottom: 8px;
 }
