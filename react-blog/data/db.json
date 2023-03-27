@@ -1,0 +1,22 @@
+{
+    "blogs":[
+      {
+        "title":"Learning React",
+        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+        "author":"Zaid",
+        "id":1
+      },
+      {
+        "title":"Shoulder Surgery Rehabilitation Tips",
+        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+        "author":"Hamzeh",
+        "id":2
+      },
+      {
+        "title":"Best Dog Food Recipes",
+        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+        "author":"Lucy",
+        "id":3
+      }
+    ]
+  }
