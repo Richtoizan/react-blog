@@ -1,22 +1,52 @@
 {
-    "blogs":[
-      {
-        "title":"Learning React",
-        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
-        "author":"Zaid",
-        "id":1
-      },
-      {
-        "title":"Shoulder Surgery Rehabilitation Tips",
-        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
-        "author":"Hamzeh",
-        "id":2
-      },
-      {
-        "title":"Best Dog Food Recipes",
-        "body":"lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
-        "author":"Lucy",
-        "id":3
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "title": "Learning React",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+      "author": "Zaid",
+      "id": 1
+    },
+    {
+      "title": "Shoulder Surgery Rehabilitation Tips",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+      "author": "Hamzeh",
+      "id": 2
+    },
+    {
+      "title": "Best Dog Food Recipes",
+      "body": "lorem ipsum dolor sit amet consectetur adipisicing elit.\nQuisquam, quod.",
+      "author": "Lucy",
+      "id": 3
+    },
+    {
+      "title": "How to Bench Press",
+      "body": "Press the bar",
+      "author": "Zaid",
+      "id": 4
+    },
+    {
+      "title": "How to zoom",
+      "body": "Run fast",
+      "author": "Lucy",
+      "id": 5
+    },
+    {
+      "title": "How to shoulder press after surgery",
+      "body": "You dont",
+      "author": "Hamzeh",
+      "id": 6
+    },
+    {
+      "title": "Odin vs Zeus",
+      "body": "Odin wins",
+      "author": "Zaid",
+      "id": 7
+    },
+    {
+      "title": "Edward Richtofens plan",
+      "body": "buy raygun",
+      "author": "Zaid",
+      "id": 9
+    }
+  ]
+}
